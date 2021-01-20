@@ -24,7 +24,12 @@
   },
   "dependencies": {
     "@adonisjs/core": "^5.0.4-preview-rc",
+    "@adonisjs/lucid": "^10.0.0",
     "@adonisjs/repl": "^1.0.0",
+    "luxon": "^1.25.0",
+    "mysql": "^2.18.1",
+    "phc-argon2": "^1.0.11",
+    "phc-bcrypt": "^1.0.4",
     "proxy-addr": "^2.0.6",
     "reflect-metadata": "^0.1.13",
     "source-map-support": "^0.5.19"
